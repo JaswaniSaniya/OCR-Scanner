@@ -1,3 +1,4 @@
+#Setup for EASY OCR, QWEN OCR , MISTRAL OCR
 import os
 import cv2
 import base64
