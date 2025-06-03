@@ -42,9 +42,5 @@ These models stand out when working with documents in multiple languages and var
 | **OpenAI GPT-4o**  | ✅ (extensive)       | ⭐⭐⭐⭐⭐    | Industry-leading OCR + reasoning |
 | **Claude Sonnet**  | ✅                   | ⭐⭐⭐⭐     | Robust vision-language understanding |
 
-> ⚠️ **Note**: GPT-4o and Claude Sonnet are multimodal LLMs — they don't do OCR in the traditional sense but excel at extracting and interpreting text from images, especially in complex, low-quality, or multilingual contexts.
 
----
-
-## 📁 Structure
 
